@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#carta {
+    width: 10rem;
+    height: 14rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #f8f9fa; /* Respaldo */
+    background-size: cover;
+    background-position: center;
+  }
